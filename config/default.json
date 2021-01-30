@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://echonabin:n481n7h494@cluster0.kttp0.mongodb.net/googlekeep_clone?retryWrites=true&w=majority",
+  "jwtSecret": "thisisappsecret"
+}
